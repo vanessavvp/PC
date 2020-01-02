@@ -1,2 +1,3 @@
 # PC
-Principios de Computadores
+## Principios de Computadores
+Primer año, segundo cuatrimestre
